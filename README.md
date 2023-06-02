@@ -4,7 +4,7 @@ The game of snake has a long history, and its original game appeared in Blockade
 I first played this game on the Family Computer and was fascinated by its simplicity.  
 It is an overhead viewpoint and the player controls a snake.  
 The player must maneuver the snake so that it does not hit the walls and the body of the snake. The snake's body grows as it eats its food, so the more the Score grows, the more difficult the game becomes.  
-こちらは日本語のReadMeです<a href="SnakeGame/ReadMe_JPN.md">Click here to read in Japanese.</a> 
+こちらは日本語のReadMeです<a href="SnakeGame/ReadMe_JPN">Click here to read in Japanese.</a> 
 
 # Game Operation and Code
 Movement is done with WASDkey, and in MenuScene, pressing EnterKey starts the Game.  
